@@ -1,9 +1,11 @@
 #include<iostream>
+
 using namespace std;
 
 
 
 int mos(int w, int u) {
+
 	int s = w*u;
 	
 	cout << s << endl;
@@ -14,6 +16,7 @@ int mos(int w, int u) {
 }
 
 int bos(int x, int y) {
+
 	int s= x / y;
 
 
@@ -29,6 +32,7 @@ int bos(int x, int y) {
 
 }
 int cos(int e, int r) {
+
 	int s = e - r;
 
 	cout << "n1" << endl;
