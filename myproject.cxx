@@ -31,6 +31,7 @@ int bos(int x, int y) {
 
 
 }
+
 int cos(int e, int r) {
 
 	int s = e - r;
